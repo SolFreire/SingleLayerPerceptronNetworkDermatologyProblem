@@ -1,1 +1,1 @@
-# SingleLayerPerceptronNetworkDermatologyProblem-
+# SingleLayerPerceptronNetworkDermatologyProblem
